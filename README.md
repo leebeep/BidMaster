@@ -154,8 +154,7 @@ build.bat
 ## 🙋‍♂️ 联系我们
 
 - **官方网站**: [https://www.yuque.com/aleeyou](https://www.yuque.com/aleeyou)
-- **问题反馈**: [GitHub Issues]((https://github.com/yibiaoai/yibiao-simple/issues)
-- **邮箱联系**: support@yibiao.pro
+
 
 ---
 
